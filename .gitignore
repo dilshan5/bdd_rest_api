@@ -1,0 +1,17 @@
+#  List of files and folders that are ignored at check in
+
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# Ruby Mine
+*/.idea/
+.idea
+
+# HTML files
+*.html
